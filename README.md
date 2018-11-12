@@ -1,3 +1,8 @@
+**NOTE:** This branch is just to store a couple of utils that I'd written
+for my own use, which aren't really suitable for the main repo.  They
+could maybe be extended a bit to be more generally useful, but I have no
+intention of doing so myself.
+
 # Starbound utilities for Python
 
 This is a library to parse Starbound's file formats which are used to
